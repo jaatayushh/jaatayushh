@@ -1,87 +1,31 @@
-# <p align="center">✦ ʜᴇʟʟᴏ ᴡᴏʀʟᴅ, ɪ'ᴍ ᴀʏᴜsʜ ✦</p>
-
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=26&duration=2500&pause=1000&color=8B5CF6&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=ARCHITECTING+NEXT-GEN+AI+SYSTEMS;AUTOMATING+COMPLEX+CI%2FCD+PIPELINES;ANDROID+KERNEL+%26+SYSTEMS+ENTHUSIAST" alt="Typing Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=cylinder&color=gradient&customColorList=03001C,301E67,5B8FB9,B6EADA&height=220&section=header&text=✦%20AYUSH%20GULIA%20✦&fontSize=48&fontColor=ffffff&animation=twinkling&fontAlignY=45&desc=%E2%9A%A1%20AI%20Developer%20%7C%20Cloud%20Automation%20%7C%20Systems%20Architect%20%E2%9A%A1&descFontSize=16&descAlignY=68&descAlign=50" width="100%" />
 </p>
 
 <p align="center">
-  <a href="https://github.com/jaatayushh"><img src="https://img.shields.io/github/followers/jaatayushh?label=Followers&style=for-the-badge&logo=github&color=7C3AED&logoColor=white" /></a>
-  <img src="https://img.shields.io/badge/Focus-AI_%26_Automation-6366F1?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/System-Linux_%26_Kernel-EC4899?style=for-the-badge&logo=linux&logoColor=white" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=24&duration=2000&pause=1000&color=00F5FF&center=true&vCenter=true&multiline=true&repeat=true&width=850&height=90&lines=%E2%9E%A4+DEVELOPING+NEXT-GEN+AI+%26+AUTONOMOUS+AGENTS;%E2%9E%A4+ORCHESTRATING+HIGH-PERFORMANCE+CI%2FCD+PIPELINES;%E2%9E%A4+KERNEL+TUNING+%26+ANDROID+SYSTEM+ARCHITECTURE" alt="Cyberpunk Typing SVG" />
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6366F1,8B5CF6,D946EF&height=180&section=header&text=⚡%20AYUSH%20GULIA%20⚡&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=38" width="100%" />
-</p>
-
----
-
-### 🌌 ✧ System Diagnostics & Core Modules
-
-```yaml
-identity: Ayush Gulia
-location: India
-role: AI Systems & Cloud Automation Developer
-active_focus:
-  - Large Language Model Integrations & Autonomous Agents
-  - High-throughput GitHub Actions & CI/CD Pipelines
-  - Linux Kernel Optimization & Android System Architecture
-status: Compiling next-gen workflows... ⚡
-```
-
----
-
-### 🔮 ✧ Tech Constellation
-
-<p align="center">
-  <!-- AI / ML -->
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,fastapi,flask&theme=dark" /><br/><br/>
-  <!-- Web & Cloud -->
-  <img src="https://skillicons.dev/icons?i=ts,js,nodejs,react,tailwind,nextjs&theme=dark" /><br/><br/>
-  <!-- DevOps & Systems -->
-  <img src="https://skillicons.dev/icons?i=githubactions,git,linux,bash,docker,netlify,cloudflare&theme=dark" />
+  <a href="https://github.com/jaatayushh"><img src="https://img.shields.io/github/followers/jaatayushh?label=Network%20Followers&style=for-the-badge&logo=github&color=00F5FF&logoColor=black&labelColor=0d1117" /></a>
+  <img src="https://img.shields.io/badge/Status-Online%20%26%20Building-00FF66?style=for-the-badge&logo=statuspage&logoColor=black&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/System-Kernel%20%7C%20Linux-BD00FF?style=for-the-badge&logo=linux&logoColor=white&labelColor=0d1117" />
 </p>
 
 ---
 
-### ⚡ ✧ GitHub Metrics
+### <p align="center"><img src="https://media.giphy.com/media/LmN8OYiY4m0X85K0Zz/giphy.gif" width="30" height="30" /> <code>// TERMINAL: CORE_IDENTITY.SYS</code></p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jaatayushh&show_icons=true&theme=tokyonight&hide_border=true&title_color=8B5CF6&icon_color=A855F7&text_color=94A3B8&bg_color=0D1117" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jaatayushh&theme=tokyonight&hide_border=true&stroke=8B5CF6&ring=8B5CF6&fire=EC4899&background=0D1117&sideLabels=94A3B8&sideNums=ffffff&currStreakNum=ffffff" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaatayushh&layout=compact&theme=tokyonight&hide_border=true&title_color=8B5CF6&text_color=94A3B8&bg_color=0D1117" width="48%" />
-  <img src="https://github-profile-trophy.vercel.app/?username=jaatayushh&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" width="48%" />
-</p>
-
----
-
-### 🛸 ✧ Profile Overview Card
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jaatayushh&theme=tokyonight" width="96%" />
-</p>
-
----
-
-### 🌐 ✧ Radar Transmission
-
-<p align="center">
-  <a href="https://github.com/jaatayushh">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  &nbsp;
-  <a href="https://t.me">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
-  </a>
-  &nbsp;
-  <a href="mailto:contact@example.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=D946EF,8B5CF6,6366F1&height=120&section=footer" width="100%" />
-</p>
+```json
+{
+  "developer": "Ayush Gulia",
+  "codename": "jaatayushh",
+  "core_stack": ["HTML5", "CSS3", "JavaScript", "Python"],
+  "specialization": [
+    "AI / LLM Workflow Automation",
+    "CI/CD Pipeline Engineering",
+    "Linux Kernel & Low-Level System Tuning"
+  ],
+  "mission": "Forging robust, high-performance automated systems & AI applications",
+  "status": "Ready to execute..."
+}
