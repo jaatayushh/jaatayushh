@@ -3,13 +3,13 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=24&duration=2500&pause=1000&color=8B5CF6&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=BUILDING+NEXT-GEN+CROSS-PLATFORM+APPS;ANDROID+%26+COMPOSE+MULTIPLATFORM+DEVELOPER;CREATOR+OF+AYUSHFLIX+%26+AYUSHMUZIC;FOSS+%26+STREAMING+SOLUTIONS+BUILDER" alt="Typing Banner" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=24&duration=2500&pause=1000&color=8B5CF6&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=BUILDING+APPS+%26+MEDIA+EXPERIENCES;ANDROID+%26+DESKTOP+DEVELOPER;CREATOR+OF+AYUSHFLIX+%26+AYUSHMUZIC;100%25+FREE+%26+OPEN-SOURCE" alt="Typing Banner" />
 </p>
 
 <p align="center">
   <a href="https://github.com/jaatayushh"><img src="https://img.shields.io/github/followers/jaatayushh?label=Followers&style=for-the-badge&logo=github&color=7C3AED&logoColor=white" /></a>
-  <img src="https://img.shields.io/badge/Platform-Android%20%7C%20Desktop%20%7C%20Web-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
-  <img src="https://img.shields.io/badge/Stack-Kotlin%20%7C%20CMP-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" />
+  <img src="https://img.shields.io/badge/Open_Source-Passionate-3DDC84?style=for-the-badge&logo=open-source-initiative&logoColor=white" />
+  <img src="https://img.shields.io/badge/Focus-Android_%7C_Desktop-7F52FF?style=for-the-badge&logo=android&logoColor=white" />
 </p>
 
 ---
@@ -19,13 +19,10 @@
 ```yaml
 name: Ayush Gulia
 location: India
-role: Open-Source Software Engineer & Multiplatform Developer
-specialties:
-  - Compose Multiplatform (Android, Windows, Linux, macOS)
-  - High-Fidelity Audio & Video Streaming Architectures
-  - High-Efficiency Web Scrapers & Media APIs
-philosophy: Clean UX, Zero Ads, 100% Free & Open Source
-status: Shipping high-performance streaming clients 🚀
+role: Software & App Developer
+focus: Android, Desktop & Web Streaming Apps
+motto: Clean UI, Zero Ads, 100% Free & Open Source
+status: Building and shipping cool projects 🚀
 ```
 
 ---
@@ -69,35 +66,14 @@ status: Shipping high-performance streaming clients 🚀
 
 ---
 
-### 🛠️ Tech Constellation & Toolbox
+### 🛠️ Languages & Technologies
 
 <p align="center">
-  <b>Mobile & Multiplatform</b><br/>
-  <img src="https://skillicons.dev/icons?i=kotlin,androidstudio,java&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=kotlin,androidstudio,cpp,cs,python,html,css,js&perline=8&theme=dark" />
 </p>
 
 <p align="center">
-  <b>Web, APIs & Backend</b><br/>
-  <img src="https://skillicons.dev/icons?i=ts,js,nodejs,react,nextjs,tailwind,python,fastapi&theme=dark" />
-</p>
-
-<p align="center">
-  <b>DevOps, Systems & Tools</b><br/>
-  <img src="https://skillicons.dev/icons?i=git,githubactions,linux,bash,docker,cloudflare&theme=dark" />
-</p>
-
----
-
-### 📊 GitHub Activity & Metrics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jaatayushh&show_icons=true&theme=tokyonight&hide_border=true&title_color=8B5CF6&icon_color=A855F7&text_color=94A3B8&bg_color=0D1117" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jaatayushh&theme=tokyonight&hide_border=true&stroke=8B5CF6&ring=8B5CF6&fire=EC4899&background=0D1117&sideLabels=94A3B8&sideNums=ffffff&currStreakNum=ffffff" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaatayushh&layout=compact&theme=tokyonight&hide_border=true&title_color=8B5CF6&text_color=94A3B8&bg_color=0D1117" width="48%" />
-  <img src="https://github-profile-trophy.vercel.app/?username=jaatayushh&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" width="48%" />
+  <code>Kotlin</code> • <code>Android / Compose</code> • <code>C++</code> • <code>C#</code> • <code>Python</code> • <code>HTML / CSS / JavaScript</code>
 </p>
 
 ---
