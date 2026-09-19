@@ -48,6 +48,7 @@ status: Building and shipping cool projects 🚀
       </p>
       <p>Free, ad-free movie & TV show streaming application built for Android & Android TV. Features multi-source scrapers, default Hindi dubbing integration, subtitle engines, and seamless casting.</p>
       <p align="center">
+        <b><a href="https://jaatayushh.onrender.com/flix">🎬 Stream Online (AyushFlix) ➔</a></b><br>
         <b><a href="https://github.com/jaatayushh/ayushflix">Explore Repository ➔</a></b>
       </p>
     </td>
